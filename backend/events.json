@@ -1,0 +1,23 @@
+{
+  "events": [
+    {
+      "title": "A new event",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/M%C3%BCnchen_Panorama.JPG/1024px-M%C3%BCnchen_Panorama.JPG",
+      "date": "2022-10-01",
+      "description": "Some awesome event!",
+      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
+    }
+  ],
+  "users": [
+    {
+      "email": "arjun@gmaill.com",
+      "password": "$2a$12$4BXslIvShK4OFsReiubeUuvvow51G1Qg9Zg2v7m1k6aQo4dZUl/2u",
+      "id": "be629c08-8d96-4e7e-b39b-0a0aa5855894"
+    },
+    {
+      "email": "arjun1@gmail.com",
+      "password": "$2a$12$OO8WL.7e8XvJt9yY7cLc4OCBaXRblAlFniNycu9ANYWglrvFRb1aW",
+      "id": "4f41cc44-2f97-445e-8591-6123294e9b4d"
+    }
+  ]
+}
